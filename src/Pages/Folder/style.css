@@ -1,0 +1,11 @@
+.flex-row{
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.folder-heading {
+    margin-left: 12px;
+}
